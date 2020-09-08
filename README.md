@@ -25,52 +25,6 @@ The Herald analysis was based conceptually on the CDC guidelines, but uses three
 The analysis of new cases was performed using a three-day rolling average of new cases by case date. The three-day average is the mean of new cases on a single day, and new cases from the two previous days. Three-day averages were used to smooth these data, which otherwise tend to spike and dip. The Herald applied a trend line to 14-day chunks of data and used the slope of that line to analyze whether the trend in new cases was positive or negative over that period of time. (A positive slope indicates a general increase in new cases over that two-week period.) 
 
 Positivity rate was independently calculated by the Herald by taking the number of individuals who tested positive for the first time on a given day, over the total individuals who tested positive or negative for the first time on that same day. The Herald graphed three-day rolling averages of positivity, calculated by taking the mean of the positivity rate of a single day and the two previous days. The Herald then applied a trend line to 14-day chunks of data and used the slope of that line to analyze whether the trend in positivity rate was up or down. (A positive slope indicates a general increase in positivity over that two-week period.) 
-SCROLLYTELLING ENDNOTES
-
-Endnote 14: “A Herald analysis of 14-day linear trends found that as a whole, those 64 counties appeared to meet at least one of those two federal reopening criteria during most of April.”
-
-Positivity regression analysis results, excluding data from South Florida counties 
-
-New cases regression analysis results, excluding data from South Florida counties
-
-Endnote 15: “On the same day DeSantis announced reopening, the state, excluding South Florida, saw a three-day sustained increase in average positivity.”
-
-Positivity regression analysis results, excluding data from South Florida counties (See pink highlights)
-
-Endnote 16: “The counties also saw a rebound in new cases on May 2, defined by the CDC as an “increase over a five-consecutive-day period,” according to a Herald analysis of three-day case averages by test result date.”
-
-New cases regression analysis results, excluding data from South Florida counties (See pink highlights)
-
-Endnote 17:  “Floridians began to travel farther from their homes around the time DeSantis began questioning the severity of the crisis in mid-April.”
-
-Cell phone mobility data analysis using data provided by Descartes Labs.
-
-
-
-Endnote 18: Since reopening, new cases have steadily increased for that part of the state, according to a Herald analysis of DOH data through June 6. 
-
-New cases regression analysis results, excluding data from South Florida counties (See blue highlights)
-
-Endnote 19: Unlike the rest of the state, the three South Florida counties seemed to meet reopening criteria for positivity and new cases at the beginning of May. 
-
-Positivity regression analysis results for South Florida
-
-New cases regression analysis results for South Florida
-
-Endnote 20: “However, by the time South Florida prepared to reopen, the region saw a sustained increase in positivity rates.”  
-
-Positivity regression analysis results for South Florida
-
-
-
-
-Endnote 21: “Again, the increasing spread of the virus in South Florida predated reopening.”
-
-Positivity regression analysis results for South Florida (See pink highlight)
-
-New cases regression analysis results for South Florida (See pink highlight)
-
-Endnote 23 - 25: All test results from the same street address were removed where there were more than twenty results returned from that address in a single day. Results are visualized in the scrollytelling story
 
 
 ANALYSIS SPECIFICS
